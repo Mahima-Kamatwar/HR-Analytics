@@ -28,10 +28,15 @@ HR Analytics Dashboard is an interactive **Power BI dashboard** designed to anal
 ```text
 HR-Analytics/
 │
-├── HR_Analytics_Dashboard.pbix
-├── hr_analytics.csv
-├── Screenshots/
+├── 01_Raw_Data/
+│   └── hr_analytics.csv
+│
+├── 02_Report/
+│   └── HR_Analytics_Dashboard.pbix
+│
+├── Assets/
 │   └── dashboard.png
+│
 └── README.md
 ```
 
@@ -154,18 +159,6 @@ The dashboard contains:
 * Slicers
 * Interactive Filters
 
-## 🔍 Business Questions
-
-This dashboard helps answer:
-
-* What is the total number of employees?
-* What is the overall attrition rate?
-* Which department has higher attrition?
-* Which job roles have higher attrition?
-* How does salary relate to attrition?
-* Which age groups have higher attrition?
-* How does employee experience affect attrition?
-* What is the employee retention rate?
 
 ## 🎨 Dashboard Features
 
@@ -181,11 +174,7 @@ This dashboard helps answer:
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot:
-
-```markdown
-![HR Analytics Dashboard](Assests/dashboard.png)
-```
+![HR Analytics Dashboard](./Assets/dashboard.png)
 
 ## 💡 Skills Demonstrated
 
