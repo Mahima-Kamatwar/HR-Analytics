@@ -184,7 +184,7 @@ This dashboard helps answer:
 Add your dashboard screenshot:
 
 ```markdown
-[HR Analytics Dashboard](Assests/dashboard.png)
+![HR Analytics Dashboard](Assests/dashboard.png)
 ```
 
 ## 💡 Skills Demonstrated
